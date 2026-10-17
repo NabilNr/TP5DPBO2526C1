@@ -48,17 +48,40 @@ Komponen GUI :
 <br>
 
 # Dokumentasi
+## NOTE  
+- Ketika data sudah di insert akan ada "Data Berhasil Ditambahkan", tetapi ketika di record tidak ada/kedetect
+- Ketika data di update akan ada "Data Berhasil Diubah", tetapi ketika di record tidak ada/kedetect
+<br>
+
 ## READ
 <img width="1920" height="520" alt="image" src="https://github.com/user-attachments/assets/dd2796f8-520e-456a-befa-8331593a3bff" />
 
 ## ADD 
 ### Insert
-
-
-
 https://github.com/user-attachments/assets/5df44ad3-4718-42d9-8ba5-60a74b966fc7
-
-
 ### Insert Error Jika Ada ID Yang Sama
 <img width="1920" height="611" alt="InsertID" src="https://github.com/user-attachments/assets/e99a8787-8fd9-4405-a566-941a8d597dbb" />
+
+### Insert Jika Ada Input Yang Kosong
+<img width="1920" height="641" alt="image" src="https://github.com/user-attachments/assets/d2e704d4-7960-47f1-8f94-1baa17e77e2b" />
+
+## UPDATE
+### Update
+https://github.com/user-attachments/assets/8af6031a-44b2-485d-8311-9bb0b00a4e9f
+### Update Jika Ada ID Yang Sama
+<img width="1920" height="646" alt="image" src="https://github.com/user-attachments/assets/61e85a8a-b98d-42e8-9a8c-2089c1a4df4e" />
+
+### Update Jika Ada Input Yang Kosong
+<img width="1920" height="614" alt="image" src="https://github.com/user-attachments/assets/0eb35afb-0ded-4914-9e47-0089190f22f5" />
+
+## DELETE
+<img width="1920" height="616" alt="image" src="https://github.com/user-attachments/assets/13e2cf18-b0ae-480a-8b23-852adec1a0a2" />
+<img width="1920" height="485" alt="image" src="https://github.com/user-attachments/assets/8e0dc12c-2865-4ddc-93e7-9c404cb524b8" />
+
+
+
+
+
+
+
 
