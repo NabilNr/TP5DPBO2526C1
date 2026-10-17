@@ -1,7 +1,7 @@
 # JANJI
 Saya Khalifa Nabil Nur dengan NIM 2511372 mengerjakan Tugas Praktikum 5 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-## Desain Program
+# Desain Program
 Atribut data : 
 1. **ID** (`VARCHAR` - Primary Key): Nomor identitas unik (misal: NIM, NIP, ID Pegawai).
 2. **Nama** (`VARCHAR`): Nama lengkap person.
@@ -15,9 +15,9 @@ Komponen GUI :
 - **`JRadioButton`**: Digunakan untuk memilih `Jenis Kelamin`.
 - **`JButton`**: Terdiri dari tombol **Add/Update**, **Cancel**, dan **Delete**.
 - **`JTable` & `JScrollPane`**: Menampilkan daftar data yang diambil langsung dari database MySQL.
+<br>
 
-
-## Penjelasan Alur Kerja Program
+# Penjelasan Alur Kerja Program
 1. **Inisialisasi & Pembacaan Data (Read)**
    - Saat aplikasi dijalankan, method `PeopleMenu()` akan menginisialisasi koneksi ke database MySQL via kelas `Database`.
    - Method `setTable()` dieksekusi untuk menjalankan query `SELECT * FROM person`.
@@ -45,3 +45,20 @@ Komponen GUI :
 
 6. **Reset Form (Cancel)**
    - Mengosongkan seluruh isi field input, mengembalikan tombol ke status **Add**, dan menyembunyikan tombol **Delete**.
+<br>
+
+# Dokumentasi
+## READ
+<img width="1920" height="520" alt="image" src="https://github.com/user-attachments/assets/dd2796f8-520e-456a-befa-8331593a3bff" />
+
+## ADD 
+### Insert
+
+
+
+https://github.com/user-attachments/assets/5df44ad3-4718-42d9-8ba5-60a74b966fc7
+
+
+### Insert Error Jika Ada ID Yang Sama
+<img width="1920" height="611" alt="InsertID" src="https://github.com/user-attachments/assets/e99a8787-8fd9-4405-a566-941a8d597dbb" />
+
